@@ -1,0 +1,132 @@
+m()
+(=( GATE SETUP Started )=)
+verf_s
+ex15022
+sece1000009052
+exse
+m(0)
+919999
+919999(-27)
+repo
+m(1)
+repo
+var)=((-34+d)
+def_space(91999)
+def_space_end(91972)
+m(2)
+ex15023
+sece-1000009052
+repo
+ta(/2)+sece
+pull g38888
+pull g18299
+merge 38888+18299
+output(((( .fka
+output((( .cma
+output(( .ma
+output( .a
+mgetar
+far
+pull far
+repo2verf.far
+foc.far
+faro.9
+faro.1
+faro.9
+faro.9
+faro.9
+faro.6
+faro.0
+faro.4
+faro.1
+faro.3
+faro.8
+faro.8
+faro.c2
+faro.c2
+faro.c2
+faro.c2
+faro.c2
+faro.c2
+fari.9
+fari.0
+fari.2
+fari.9
+fari.2
+fari.2
+fari.2
+exfaro.avg
+inc_imusecure
+  113266938C59181052C114000549C100889328C43839635C3004409C22066023C45056205
+    if average is locked error[93761+d-127813613+d] signal locked
+      locked()signal
+        retry [d=c]
+        func_ imuerror_fglom
+          get secure:e level [wrap] (=( Fluid Gate Locked On Movement - FGLOM )=)
+          cmoscheck
+          close robcc 
+                   get secure:e level [wrap] (=( return operation but cont. calc. )=)
+faro.3
+faro.3
+faro.3
+faro.3
+fari.3
+fari.3
+fari.3
+fari.3
+fari.3
+fari.3
+pooI
+  fari.ing
+  fari.ing
+  fsa.
+  fglomm
+  f.sa
+  repo3
+    exp_imusecure
+      if unable to pick item check if fari.ing is return C114000549 and C
+        signal locked
+        locked()signal
+        func_ imuerror_cbmos
+        get secure:e level [wrap] (=( CRIER )=)
+        get secure:e level [wrap] (=( Picked item was altered - Pick only one Item error [I] )=)
+        cmoscheck
+        close robcc
+                  get secure:e level [wrap] (=( return operation but cont. calc. )=)
+ch.farisv
+ch.farosv
+m(5)
+comp.math farisv.circ farosv.circ
+mergeallgates
+forceconnect
+forceconnect
+forceconnect
+forceconnect
+forceconnect
+forceconnect
+forceconnect
+exi => REPO => REPO => VERF 
+  exp:aos
+    90955710A121341163A31577814A68581199A
+      excl:aos
+        secure
+        sigc7a 
+igconst
+igvar
+iglang
+quan+==
+quan.-.
+quan.ULK
+quan.simple2
+quan.simple12
+quan:aosget:15022
+confirm mode 981
+transmarr0)=(english#quansimple
+quam+
+quan+
+quamm+
+gofull
+(=( Setup Complete - Calculation Section Reporting READY =%Section )=)
+(=( Never exl or incl languages when using qua interactice )=)
+inclall
+if incall is signal any never do
